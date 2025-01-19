@@ -1,4 +1,4 @@
-# dir-blast 
+# ~~dir-blast~~不想做了
 
 一个用于 CTF 的快速目录扫描工具
 
